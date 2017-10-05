@@ -9,13 +9,10 @@
 
 ## 基于自动诊断的运维系统
 
-
+* [销售策略](ji-yu-zi-dong-zhen-duan-de-yun-wei-xi-tong/xiao-shou-ce-lve.md)
 
 ## 无线测量软硬件系统
 
+* [销售策略](wu-xian-ce-liang-ruan-ying-jian-xi-tong/xiao-shou-ce-lve.md)
 * [Compare to Fluke/GE](wu-xian-ce-liang-ruan-ying-jian-xi-tong/compare-to-flukege.md)
-
-## 
-
-
 
